@@ -5,8 +5,10 @@ sum = addition
 puts sum
 
 def subtraction(num1, num2)
-
+  return num1 - num2
 end
+sum = subtraction
+puts sum
 
 def division(num1, num2)
 
