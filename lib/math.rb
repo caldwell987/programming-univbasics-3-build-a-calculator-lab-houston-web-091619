@@ -1,14 +1,14 @@
 def addition(num1=5, num2=4)
   return num1 + num2
 end
-sum = addition
-puts sum
+add = addition
+puts add
 
 def subtraction(num1, num2)
   return num1 - num2
 end
-sum = subtraction
-puts sum
+sub = subtraction
+puts sub
 
 def division(num1, num2)
 
