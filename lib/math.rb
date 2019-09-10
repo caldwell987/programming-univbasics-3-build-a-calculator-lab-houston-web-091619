@@ -4,11 +4,12 @@ end
 add = addition
 puts add
 
-def subtraction(num1, num2)
+def subtraction(num1=5, num2=4)
   return num1 - num2
 end
-sub = subtraction
-puts sub
+two = subtraction
+puts two
+
 
 def division(num1, num2)
 
