@@ -26,7 +26,7 @@ puts four
 
 
 
-def modulo(num1=5.0, num2=4.0)
+def modulo(num1=34.0, num2=5.0)
   return num1/num2
 end
 five = modulo
