@@ -27,7 +27,7 @@ puts four
 
 
 def modulo(num1=34.0, num2=5.0)
-  return num1/num2
+  return num1%num2
 end
 five = modulo
 puts five
