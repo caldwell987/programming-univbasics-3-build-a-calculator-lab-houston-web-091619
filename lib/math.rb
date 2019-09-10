@@ -35,5 +35,5 @@ puts five
 
 
 def square_root(num=81)
-return
+puts Math.sqrt(num)
 end
